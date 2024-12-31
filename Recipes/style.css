@@ -1,0 +1,27 @@
+* {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:left
+}
+
+.header {
+    font-size: 60px;
+    font-weight: bolder;
+    color: orange;
+}
+
+.recipe {
+    font-size: 45px;
+    font-weight: bold;
+    color: peachpuff;
+}
+
+.title {
+    font-size: 30px;
+    color: white;
+}
+
+li {
+    font-size: 20px;
+    color: white;
+}

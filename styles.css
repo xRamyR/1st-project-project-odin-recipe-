@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    font-size: 60px;
+    font-weight: bolder;
+    color: orange
+}
+
+.recipe {
+    font-size: 25px;
+
+}
+
