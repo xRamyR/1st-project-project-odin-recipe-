@@ -1,7 +1,13 @@
 * {
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
-    text-align:left
+    text-align: center;
+    box-sizing: border-box;
+}
+
+img {
+    width: 623px;
+    height: auto;
 }
 
 .header {
@@ -14,14 +20,25 @@
     font-size: 45px;
     font-weight: bold;
     color: peachpuff;
+    text-align: left;
+    width: 623px;
+    margin: 100px auto 50px;
 }
 
 .title {
     font-size: 30px;
-    color: white;
+    color:aqua;
+    text-align: left;
+    width: 623px;
+    margin: 50px auto 0px;
 }
 
 li {
     font-size: 20px;
     color: white;
+    text-align: left;
+    padding: 4px;
+    width: 623px;
+    margin: 0 auto;
+
 }
